@@ -1,0 +1,7 @@
+name 'tomcat_manager'
+maintainer 'Carlos Beleño Caballero'
+maintainer_email 'cbeleno@redsis.com'
+license 'all_rights'
+description 'Installs/Configures tomcat_manager'
+version '2.0.0'
+long_description 'Cookbook to configure tomcat manager'
